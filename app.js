@@ -1,7 +1,7 @@
 // ============================================
 // ⚠️ PEGA AQUÍ LA URL DE TU IMPLEMENTACIÓN WEB (BACKEND CLONADO)
 // ============================================
-const API_URL = "https://script.google.com/macros/s/AKfycbzWEqQQTow3irxkTU4Y3CVJshtfjo1s2m1dwSicRihQ42_fArC6L9MAuQoUPUfzzXYS/exec"; 
+const API_URL = "https://script.google.com/macros/s/AKfycbwPVZWVaZkPmLimaXFeQkm9xelopzYB7wQeJWcs38_eKmy7Fog3cEscB3auKttTMXX1/exec"; 
 
 var D = {inv:[], provs:[], deud:[], ped:[], hist:[], cats:[], proveedores:[], ultimasVentas:[], cotizaciones:[], pasivos:[]};
 var CART = [];
